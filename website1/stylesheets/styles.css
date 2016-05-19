@@ -1,0 +1,55 @@
+.center {
+
+	text-align: center;
+	width: 100%;
+
+}
+
+.floating-box {
+	display: inline-block;
+	width: 100%;
+	height: 15px;
+	margin: 50px;
+	
+}
+
+.table {
+	margin-left: auto;
+  	margin-right: auto;
+  	background-color: grey;
+
+}
+
+.div1 {
+	float: center;
+}
+
+.CustomClass {
+   float: left;
+   padding: 10px;
+  border: solid 1px black;
+  width: 30%;
+  background-color: blue;
+}
+
+.list {
+   float: left;
+   padding: 50px;
+  width: 40%;
+ 
+}
+
+.otherfacts {
+   float: right;
+   padding: 50px;
+  width: 30%;
+ 
+}
+
+.PictureClass {
+	float: left;
+   padding: 10px;
+  width: 30%;
+
+}
+
